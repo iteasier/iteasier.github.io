@@ -1,0 +1,8 @@
+# ITEasier robots.txt
+# https://iteasier.pl
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://iteasier.pl/sitemap.xml
